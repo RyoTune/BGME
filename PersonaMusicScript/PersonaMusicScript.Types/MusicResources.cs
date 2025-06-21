@@ -27,7 +27,7 @@ public class MusicResources
 
         [Game.P3R_PC] = new()
         {
-            TotalEncounters = 1200,
+            TotalEncounters = 3000,
         },
 
         [Game.Metaphor] = new()
